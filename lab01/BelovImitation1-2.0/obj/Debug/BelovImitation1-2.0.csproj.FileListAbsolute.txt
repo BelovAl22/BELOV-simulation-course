@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\bin\Debug\BelovImitation1-2.0.exe.config
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\bin\Debug\BelovImitation1-2.0.exe
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\bin\Debug\BelovImitation1-2.0.pdb
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\obj\Debug\BelovImitation1-2.0.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\obj\Debug\BelovImitation1_2._0.Form1.resources
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\obj\Debug\BelovImitation1_2._0.Properties.Resources.resources
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\obj\Debug\BelovImitation1-2.0.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\obj\Debug\BelovImitation1-2.0.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\obj\Debug\BelovImitation1-2.0.exe
+C:\Users\alexa\source\repos\BelovImitation1-2.0\BelovImitation1-2.0\obj\Debug\BelovImitation1-2.0.pdb
