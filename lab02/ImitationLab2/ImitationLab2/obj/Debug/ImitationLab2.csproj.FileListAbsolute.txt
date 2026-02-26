@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\bin\Debug\ImitationLab2.exe.config
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\bin\Debug\ImitationLab2.exe
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\bin\Debug\ImitationLab2.pdb
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\obj\Debug\ImitationLab2.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\obj\Debug\ImitationLab2.Form1.resources
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\obj\Debug\ImitationLab2.Properties.Resources.resources
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\obj\Debug\ImitationLab2.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\obj\Debug\ImitationLab2.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\obj\Debug\ImitationLab2.exe
+C:\Users\alexa\source\repos\ImitationLab2\ImitationLab2\obj\Debug\ImitationLab2.pdb
